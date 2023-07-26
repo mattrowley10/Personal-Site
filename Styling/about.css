@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tea
+ {
+    width: 20rem;
+    height: 24rem;
+    margin: 1rem 2rem 3rem 2rem;
+    float: left;
+    box-shadow: 2px 2px 5px 5px;
+}
+.lofi {
+    width:20rem;
+    height: 20rem;
+    margin:1rem 2rem 3rem 2rem;
+    box-shadow: 2px 2px 5px 5px;
+    float: left;
+}
+    h1 {
+        font-family:fantasy;
+        font-weight: bold;
+        text-align: center;
+        padding: 18px 0px 10px;
+        margin: 2rem 1rem 3rem 1rem;
+        border-style: double;
+        font-size: 32px;
+    }
+    h2 {
+        font-family: fantasy;
+        margin: 1rem 1rem 1rem 1rem;
+        max-width: 200rem;
+        padding: .5rem;
+        font-size: 24px;
+        text-align: left;
+    }
+    p {
+        font-family: fantasy;
+        margin: 1rem 1rem 14rem 1rem;
+        max-width: 200rem;
+        padding: .5rem;
+        text-align: left;
+        font-size: 18.5px;
+    }
+    .music {
+        margin: 1rem 1rem 1rem 1rem;
+        padding: .5rem;
+        font-size: 24px;
+    }
+    .par {
+        padding:.5rem;
+        margin-bottom: 5rem;
+
+    }
+    .hotsprings {
+        width:20rem;
+        height: 24rem;
+        margin:1rem 2rem 3rem 2rem;
+        box-shadow: 2px 2px 5px 5px;
+        float: left;
+    }
+    .creator {
+        /* padding-bottom: .5rem; */
+        padding-top: .5rem;
+        /* margin-bottom: 1rem; */
+    }
+    .bottom {
+        text-align: center;
+    }

@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    font-family:fantasy;
+    font-weight: bold;
+    text-align: center;
+    padding: 18px 0px 10px;
+    margin: 2rem 1rem 1rem 1rem;
+    border-style: double;
+    font-size: 32px;
+}
+h2 {
+    font-family: fantasy;
+    margin: 6rem 1rem 6rem 25rem;
+    max-width: 200rem;
+    padding: 1.5rem;
+    font-size: 24px;
+}
+.quote {
+    margin: 10rem 25rem 4rem 2rem;
+
+}
+.pic1 {
+    width: 22rem;
+    height: 22rem; 
+    margin: 3rem 1.5rem 1.5rem 1.5rem;
+    box-shadow: 2px 2px 5px 5px;
+    float: left;
+}
+.pic2 {
+    width: 18rem;
+    height: 23rem;
+    margin: 4rem 1rem 5rem 1rem;
+    box-shadow: 2px 2px 5px 5px;
+    float: right;
+}

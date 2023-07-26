@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: auto;
+    margin: 1rem auto; 
+    background-color:darkgray;
+    display: grid;
+}
+img {
+    margin: 1rem;
+}
+header {
+    text-align: left;
+    border-bottom: 1px solid #44f;
+    padding: 0.5rem 1rem;
+    font-family: cursive;
+    background: orange;
+  }
+  .logo {
+    font-size: 2rem;
+  }
